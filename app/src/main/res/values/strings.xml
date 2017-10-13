@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SQLProject</string>
+    <string name="add_menu">Add</string>
+    <string name="delete_menu">Delete</string>
+</resources>
